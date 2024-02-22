@@ -1,0 +1,19 @@
+{
+  "name": "tomoro-acc-creator",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.13",
+    "node-machine-id": "^1.1.12"
+  }
+}
